@@ -41,7 +41,7 @@ body{
     justify-content: space-between;
 }
 .apresentacao__conteudo{
-    width: 50%;
+    width: auto;
     display: flex;
     flex-direction: column;
     gap: 40px;
